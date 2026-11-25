@@ -9,7 +9,6 @@
 - STEP 3 の [tool call]：fetch_fetch({'url': 'https://modelcontextprotocol.io/'})
 - STEP 4 の [tool call]：aws_aws___search_documentation({'search_phrase': 'Amazon S3 バージョニング 概要'})
 aws_aws___search_documentation({'search_phrase': 'What is S3 Versioning Amazon S3 Developer Guide'})
-aws_aws___search_documentation({'search_phrase': 'What is S3 Versioning Amazon S3 Developer Guide'})
 - 気づき・疑問：ツールを増やすと、使っていなくても入力トークンが増えていく。
 
 ## 宿題
